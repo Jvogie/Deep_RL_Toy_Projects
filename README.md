@@ -8,7 +8,7 @@ Doom RL Training with Sample Factory
 
 This Jupyter notebook demonstrates training a reinforcement learning agent in the "Doom" video game environment using the Sample Factory framework.
 
-## Features
+Features include:
 - Training in the `doom_health_gathering_supreme` environment.
 - Visualization of agent's performance post-training.
 - Setup for ViZDoom engine and Sample Factory dependencies.
